@@ -21,3 +21,5 @@ MissionCard.propTypes = {
   country: PropTypes.string.isRequired,
   destination: PropTypes.string.isRequired,
 };
+
+export default MissionCard;
